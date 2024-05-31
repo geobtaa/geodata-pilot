@@ -1,0 +1,19 @@
+id;name;storage;metadata_abstract;path_url;crs_layer;encoding;geometry_type;features_count
+1;Institutions 2024;ESRI Shapefile;"This dataset contains coordinates of the 15 institutions that participate in the Big Ten Academic Alliance.
+Indiana University Bloomington
+Michigan State University
+Northwestern University
+Ohio State University
+Pennsylvania State University
+Purdue University
+Rutgers University-New Brunswick
+University of Chicago
+University of Illinois at Urbana­-Champaign
+University of Iowa
+University of Maryland
+University of Michigan
+University of Minnesota
+University of Nebraska-Lincoln
+University of Wisconsin-­Madison";/Users/majew030/GitHub/geodata-pilot/14c00530c04741df957fc6ee6d9a331a/14c00530c04741df957fc6ee6d9a331a.shp;EPSG:4326 WGS 84;UTF-8;Point;15
+2;States;ESRI Shapefile;This dataset contains the boundaries of the 11 states in the Big Ten Academic Alliance as of 2022. It was derived from the cartographic boundary files available on https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html.  Data are generalized representations of geographic boundaries at 1:500,000.;/Users/majew030/GitHub/geodata-pilot/d6ea0892-585b-4573-932d-e893a8216968/d6ea0892-585b-4573-932d-e893a8216968.shp;EPSG:4326 WGS 84;UTF-8;Polygon;11
+3;Institutions 2022;ESRI Shapefile;This dataset contains coordinates of the 14 institutions that participate in the Big Ten Academic Alliance Geospatial Information Network as of 2022.;/Users/majew030/GitHub/geodata-pilot/f8645cc1-8699-4cda-bc77-1b9a87616e4f/f8645cc1-8699-4cda-bc77-1b9a87616e4f.shp;EPSG:4326 WGS 84;UTF-8;Point;14

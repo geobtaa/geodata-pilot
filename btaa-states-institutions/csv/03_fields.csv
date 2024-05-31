@@ -1,0 +1,12 @@
+id;layer_id;layer;field_name;display_name;alias;type_name;type;length
+1;1;Institutions 2024;Number;Number;;Integer64;4;10
+2;1;Institutions 2024;University;University;;String;10;254
+3;1;Institutions 2024;Longitude;Longitude;;Real;6;18
+4;1;Institutions 2024;Latitude;Latitude;;Real;6;18
+1;2;States;STATEFP;STATEFP;;String;10;2
+2;2;States;STUSPS;STUSPS;;String;10;2
+3;2;States;NAME;NAME;;String;10;100
+1;3;Institutions 2022;Number;Number;;Integer64;4;10
+2;3;Institutions 2022;University;University;;String;10;254
+3;3;Institutions 2022;Longitude;Longitude;;Real;6;18
+4;3;Institutions 2022;Latitude;Latitude;;Real;6;18
