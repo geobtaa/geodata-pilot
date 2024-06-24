@@ -1,0 +1,22 @@
+Input folder: /Users/majew030/GitHub/geodata-pilot/001_btaa-region/14c00530c04741df957fc6ee6d9a331a
+Date: 2024-06-10T10:51:51
+
+This folder has 1 valid shapefiles.
+
+------
+File Extensions
+------
+
+The shapefile in this folder includes the files: .cpg .dbf .prj .qix .qmd .shp .shx 
+Missing recommended file(s)
+ .shp.xml (metadata)
+
+
+------
+Projections
+------
+
+The shapefile in this folder is in the coordinate system/projection:
+WGS 84 / Pseudo-Mercator -- EPSG: 3857
+
+
