@@ -1,3 +1,3 @@
 # geodata-pilot
 
-This repository holds sample datasets and metadata for our Geodata Collection Pilot (2024)
+This repository holds fixture datasets and metadata for our Geodata Collection Pilot (2024)
